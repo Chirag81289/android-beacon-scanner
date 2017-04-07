@@ -2,7 +2,7 @@
 
 A simple android beacon scanner that can recognize iBeacons, Eddystone beacons (UID and URL, with or without TLM) and AltBeacons [available on Google Play](https://play.google.com/store/apps/details?id=com.bridou_n.beaconscanner).
 
-<img src="screenshots/screen-1.png" width="25%" /><img src="screenshots/screen-2.png" width="25%" /><img src="screenshots/screen-3.png" width="25%" />
+<img src="screenshots/screen-1.png" width="25%" />     <img src="screenshots/screen-2.png" width="25%" />   <img src="screenshots/screen-3.png" width="25%" />
 
 Available for android 4.3+ and smartphones with Bluetooth LE.
 
@@ -39,7 +39,7 @@ It can display several frames emitted by a single beacon, allowing you to see if
  - [TapTargetView](https://github.com/KeepSafe/TapTargetView)
 	- Material design discovery feature made easy
  - [Lottie](https://github.com/airbnb/lottie-android)
-   - Material design discovery feature made easy
+   - To make it easier to run animations
 
 If any of you guys have feedback about the utilisation I made of theses libraries in my project, I'd love to hear it!
 
